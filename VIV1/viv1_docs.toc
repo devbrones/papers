@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Preamble}{III}{}%
+\contentsline {subsection}{\numberline {1.1}Document Structure and Introduction}{III}{}%
+\contentsline {subsection}{\numberline {1.2}Description}{III}{}%
+\contentsline {subsection}{\numberline {1.3}Parts List}{IV}{}%
+\contentsline {subsection}{\numberline {1.4}Comparison}{IV}{}%
+\contentsline {subsection}{\numberline {1.5}Conclusion}{IV}{}%
+\contentsline {section}{\numberline {2}Design Process (Hardware)}{V}{}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{V}{}%
+\contentsline {subsection}{\numberline {2.2}Design Theory}{V}{}%
+\contentsline {subsection}{\numberline {2.3}Rendered image}{VIII}{}%
+\contentsline {subsection}{\numberline {2.4}Material choice}{IX}{}%
+\contentsline {section}{\numberline {3}Design Process (Software)}{X}{}%
+\contentsline {section}{\numberline {4}Construction Guide}{X}{}%
+\contentsline {subsection}{\numberline {4.1}3D Printed Parts}{X}{}%
+\contentsline {subsection}{\numberline {4.2}Laser Cut Parts}{X}{}%
+\contentsline {subsection}{\numberline {4.3}Assembly Guide}{X}{}%
+\contentsline {subsection}{\numberline {4.4}Arduino Guide}{X}{}%
+\contentsline {subsection}{\numberline {4.5}Drone Firmware Documentation}{X}{}%
+\contentsline {section}{\numberline {5}Usage}{X}{}%
+\contentsline {section}{\numberline {6}Article License}{X}{}%

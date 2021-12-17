@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Produktbeskrivning}{III}{section.1}%
+\contentsline {section}{\numberline {2}Utvinning av råvaror}{V}{section.2}%
+\contentsline {section}{\numberline {3}Tillverkning och transport}{VII}{section.3}%
+\contentsline {section}{\numberline {4}Användning}{VIII}{section.4}%
+\contentsline {section}{\numberline {5}Slutsats}{X}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Inledning och beskrivning av slutsats}{X}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Slutsats ur ett hållbarhetsperspektiv}{XI}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Källor}{XII}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Faktasök och källornas trovärdighet}{XIII}{subsection.6.1}%

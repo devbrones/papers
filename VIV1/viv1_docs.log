@@ -1,0 +1,387 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  8 DEC 2021 12:05
+entering extended mode
+**./viv1_docs.tex
+(viv1_docs.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hitec\hitec.cls
+Document Class: hitec 2001/08/22 v0.0(beta) Hi-tec style document class
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\leftmarginwidth=\dimen138
+\fullwidth=\dimen139
+\emptyfoottopmargin=\dimen140
+\emptyheadtopmargin=\dimen141
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen142
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/animate\animate.
+sty
+Package: animate 2021/11/09 PDF & SVG animations from files and inline graphics
+
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
+sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
+l.tex
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
+ls.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count190
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
+y
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\ifdraft
+.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count191
+\calc@Bcount=\count192
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count193
+\calc@Cskip=\skip51
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/zref\zref-abspag
+e.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/zref\zref-base.s
+ty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmd
+s.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infw
+arerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvse
+tkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\k
+vdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pdf
+texcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexc
+mds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.
+sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-lt
+x.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count194
+Package zref Info: New property: abspage on input line 66.
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/media9\pdfbase.s
+ty
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
+s2e\l3keys2e.sty
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
+ty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
+end-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box50
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2021/09/12 v0.53 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count196
+\g_pbs_oc_int=\count197
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ocgx2\ocgbase.st
+y
+Package: ocgbase 2021/06/11 v0.20 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count198
+)
+\@anim@box=\box51
+\@anim@measbox=\box52
+\@anim@tmpdima=\dimen147
+\@anim@tmpdimb=\dimen148
+\@anim@num=\count199
+\@anim@curframe=\count266
+\@anim@curframe@zb=\count267
+\@anim@resizeflags=\count268
+\@anim@skipfram=\count269
+\@anim@mulframecnt=\count270
+\@anim@@tmlnfile=\read2
+\@anim@tmpcnt=\count271
+\c@@anim@ltxcnt=\count272
+\@anim@curlayer=\count273
+\@anim@lineno=\count274
+\@anim@curfield=\count275
+\@anim@@resizeflags=\count276
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
+sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
+.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen149
+\captionmargin@=\dimen150
+\captionwidth=\dimen151
+\caption@tempdima=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcapti
+on.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count279
+\c@subtable=\count280
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+3.
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (viv1_docs.aux)
+\openout1 = `viv1_docs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen156
+\scratchbox=\box53
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen157
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
+topdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\21jogudm\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopd
+f-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/Users/21jogudm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (viv1_do
+cs.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `viv1_docs.toc'.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 19.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+[3]
+<parts.png, id=17, 386.04225pt x 202.95825pt>
+File: parts.png Graphic file (type png)
+<use parts.png>
+Package pdftex.def Info: parts.png  used on input line 32.
+(pdftex.def)             Requested size: 375.0pt x 197.15727pt.
+<comp.png, id=19, 494.44725pt x 110.814pt>
+File: comp.png Graphic file (type png)
+<use comp.png>
+Package pdftex.def Info: comp.png  used on input line 40.
+(pdftex.def)             Requested size: 375.0pt x 84.04364pt.
+ [4 <./parts.png> <./comp.png>]
+<arm.png, id=26, 2007.5pt x 2007.5pt>
+File: arm.png Graphic file (type png)
+<use arm.png>
+Package pdftex.def Info: arm.png  used on input line 55.
+(pdftex.def)             Requested size: 284.52756pt x 284.50949pt.
+ [5 <./arm.png>]
+<arms.png, id=32, 2007.5pt x 2007.5pt>
+File: arms.png Graphic file (type png)
+<use arms.png>
+Package pdftex.def Info: arms.png  used on input line 67.
+(pdftex.def)             Requested size: 168.74886pt x 168.72075pt.
+<plate.png, id=33, 2007.5pt x 2007.5pt>
+File: plate.png Graphic file (type png)
+<use plate.png>
+Package pdftex.def Info: plate.png  used on input line 73.
+(pdftex.def)             Requested size: 168.74886pt x 168.72075pt.
+<emount.png, id=34, 2007.5pt x 2007.5pt>
+File: emount.png Graphic file (type png)
+<use emount.png>
+Package pdftex.def Info: emount.png  used on input line 84.
+(pdftex.def)             Requested size: 168.74886pt x 168.72075pt.
+<dome.png, id=35, 2007.5pt x 2007.5pt>
+File: dome.png Graphic file (type png)
+<use dome.png>
+Package pdftex.def Info: dome.png  used on input line 90.
+(pdftex.def)             Requested size: 168.74886pt x 168.72075pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--100
+
+ []
+
+[6 <./arms.png> <./plate.png> <./emount.png> <./dome.png>]
+<rev1stress.png, id=44, 397.485pt x 288.47775pt>
+File: rev1stress.png Graphic file (type png)
+<use rev1stress.png>
+Package pdftex.def Info: rev1stress.png  used on input line 105.
+(pdftex.def)             Requested size: 168.74886pt x 122.47156pt.
+<rev2stress.png, id=45, 470.35725pt x 204.765pt>
+File: rev2stress.png Graphic file (type png)
+<use rev2stress.png>
+Package pdftex.def Info: rev2stress.png  used on input line 111.
+(pdftex.def)             Requested size: 168.74886pt x 73.46225pt.
+<rev3stress.png, id=46, 506.49225pt x 141.52875pt>
+File: rev3stress.png Graphic file (type png)
+<use rev3stress.png>
+Package pdftex.def Info: rev3stress.png  used on input line 118.
+(pdftex.def)             Requested size: 375.0pt x 104.79008pt.
+ [7 <./rev1stress.png> <./rev2stress.png> <./rev3stress.png>]
+<top.png, id=55, 2007.5pt x 1134.2375pt>
+File: top.png Graphic file (type png)
+<use top.png>
+Package pdftex.def Info: top.png  used on input line 128.
+(pdftex.def)             Requested size: 300.00114pt x 169.48792pt.
+<bottom.png, id=56, 2007.5pt x 1134.2375pt>
+File: bottom.png Graphic file (type png)
+<use bottom.png>
+Package pdftex.def Info: bottom.png  used on input line 129.
+(pdftex.def)             Requested size: 300.00114pt x 169.48792pt.
+ [8 <./top.png (PNG copy)> <./bottom.png (PNG copy)>] [9] [10] (viv1_docs.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 4648 strings out of 478893
+ 82605 string characters out of 2847545
+ 399337 words of memory out of 3000000
+ 22399 multiletter control sequences out of 15000+600000
+ 414947 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 87i,11n,117p,633b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
+nc}<C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helveti
+c/uhvb8a.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvr8a.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on viv1_docs.pdf (10 pages, 4238028 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
