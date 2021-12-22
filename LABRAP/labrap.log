@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  17 DEC 2021 14:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  22 DEC 2021 11:11
 entering extended mode
 **./labrap.tex
 (labrap.tex
@@ -327,64 +327,22 @@ or `english'. on input line 52.
  [1
 
 {C:/Users/21jogudm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-<plattdegel.png, id=17, 1144.87724pt x 1050.92625pt>
-File: plattdegel.png Graphic file (type png)
-<use plattdegel.png>
-Package pdftex.def Info: plattdegel.png  used on input line 90.
-(pdftex.def)             Requested size: 77.62447pt x 71.24716pt.
-
-Underfull \hbox (badness 4792) in paragraph at lines 91--91
-[]\OT1/cmr/m/n/10 Figure 1: Degel
+Overfull \hbox (25.12996pt too wide) detected at line 104
+\OML/cmm/m/it/10 m[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 m[] \OMS/cmsy/m/n/10   
+\OML/cmm/m/it/10 m[]
  []
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 95
-.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 96
-.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 97
-.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 98
-.
 
 [3]
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 10
-2.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 10
-3.
-
-
-Overfull \hbox (73.73723pt too wide) detected at line 104
-\OML/cmm/m/it/10 m[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 m[] \OMS/cmsy/m/n/10   
-\OML/cmm/m/it/10 m[]
- []
-
-
-Overfull \hbox (25.12996pt too wide) detected at line 105
-\OML/cmm/m/it/10 m[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 m[] \OMS/cmsy/m/n/10   
-\OML/cmm/m/it/10 m[]
- []
-
-[4 <./plattdegel.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 109--112
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
 
  []
 
-[5] (labrap.aux) ) 
+[4] (labrap.aux) ) 
 Here is how much of TeX's memory you used:
- 7352 strings out of 478893
- 168848 string characters out of 2847545
- 458638 words of memory out of 3000000
- 25175 multiletter control sequences out of 15000+600000
+ 7340 strings out of 478893
+ 168568 string characters out of 2847545
+ 459630 words of memory out of 3000000
+ 25164 multiletter control sequences out of 15000+600000
  409141 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,7n,81p,424b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -398,14 +356,15 @@ fonts/cm/cmmi7.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/21jogudm/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/21jog
-udm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+udm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><
 C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy7.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on labrap.pdf (5 pages, 3848240 bytes).
+/cm/cmr7.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Users/21jogudm/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/21jogudm/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on labrap.pdf (4 pages, 143460 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
